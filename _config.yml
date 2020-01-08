@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "即得"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "python是最好的语言"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
