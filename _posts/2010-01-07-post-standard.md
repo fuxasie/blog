@@ -1,8 +1,6 @@
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
-categories:
-  - Blog
 tags:
   - 文章
   - 介绍

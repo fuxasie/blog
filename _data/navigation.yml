@@ -1,8 +1,6 @@
 main:
   - title: "归档"
     url: /posts/
-  - title: "类别"
-    url: /categories/
   - title: "标签"
     url: /tags/
   - title: "关于"
