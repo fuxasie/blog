@@ -7,12 +7,12 @@ tags:
 ---
 
 首先，需要的模块：
-```
+```python
 import requests
 import json#加载json模块
 ```
 然后是源码：
-```
+```python
 # 获取sms的图床链接
 def getimgurl (imgurl):
     img=requests.get(imgurl).content#访问url图片网址，存字节型数据
