@@ -60,32 +60,23 @@ plugins:
 author:
   name   : "即得"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "～～～～～"
+  bio    : "把该有的世界，还与人民。"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/fuxasie"
+    - label: "电子邮箱"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:fuxasie@gmail.com
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/fuxasie"
+    - label: "电子邮箱"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:fuxasie@gmail.com
+
 
 defaults:
   # _posts
