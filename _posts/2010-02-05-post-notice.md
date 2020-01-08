@@ -1,10 +1,12 @@
 ---
-title: "Post: Notice"
+title: "格式保留"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - notice
+  - 介绍
+  - 格式
+  - 格式链接
+#link: https://github.com
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
