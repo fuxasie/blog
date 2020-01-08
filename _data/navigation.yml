@@ -1,5 +1,5 @@
 main:
-  - title: "主页"
+  - title: "归档"
     url: /posts/
   - title: "类别"
     url: /categories/
