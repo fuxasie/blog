@@ -1,18 +1,18 @@
 ---
 title: "Python获取sms图床链接"
 tags:
-  - 代码
-  - 文章
+- 代码
+- 文章
 
 ---
 
 首先，需要的模块：
-`
+```
 import requests
 import json#加载json模块
-`
+```
 然后是源码：
-`
+```
 # 获取sms的图床链接
 def getimgurl (imgurl):
     img=requests.get(imgurl).content#访问url图片网址，存字节型数据
@@ -26,5 +26,5 @@ def getimgurl (imgurl):
             return img["data"]["url"]
         except KeyError:#这个异常是为传入的图片网址不为空所导致到异常加的
             pass
-`
+```
 
