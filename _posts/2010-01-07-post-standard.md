@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "格式保留"
 excerpt_separator: "<!--more-->"
 tags:
   - 文章
